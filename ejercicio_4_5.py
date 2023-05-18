@@ -2,7 +2,7 @@ if __name__ == '__main__':
 	# programa que calcula el salario total de un empleado teniendo en cuenta su salario y horas trabajadas
 	# version 1.0 
 	# 9/03/2023
-	# programado por:Juan sebastian ortiz
+	# programado por: Gabriel Gomez
 	# definicion de variables
 	nombre = str()
 	ht = int()
