@@ -2,7 +2,7 @@ if __name__ == '__main__':
 	# programa   que dice que dia de la semana es segun el dia del mes
 	# version 1.0 
 	# 28/02/2023
-	# programado por:Juan sebastian ortiz
+	# programado por: Gabriel Gomez
 	
 	# definicion de variables
 	d = int()
